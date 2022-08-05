@@ -133,7 +133,7 @@ Hi, I'm Boopathi Hari!
 
 <p align="center">
 	<a href="https://github.com/boopathihari">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boopathihari&langs_count=8&layout=compact" alt="boopathi">
 	</a>
 	<br/>
 <br/>
