@@ -6,7 +6,7 @@ Hi, I'm Boopathi Hari!
 </h1>
 <p align="center">
 	<a href="https://github.com/boopathihari">
-		<img src="https://komarev.com/ghpvc/?username=boopathihari&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+		<img src="https://komarev.com/ghpvc/?username=boopathihari&label=Profile%20views&color=0e75b6&style=flat" alt="Boopathihari" />
 	</a>
 	<a href="https://github.com/boopathihari">
 		<img src="https://img.shields.io/github/followers/boopathihari?label=Followers" alt="boopathihari" />
